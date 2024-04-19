@@ -6,3 +6,13 @@ img{
 h1{
     color: darkgreen;
 }
+h2{
+    color: rgb(34, 148, 34)
+}
+h3{
+    color: rgb(79, 137, 20)
+}
+
+body {
+    background-color: rgb(196, 137, 186);
+}
